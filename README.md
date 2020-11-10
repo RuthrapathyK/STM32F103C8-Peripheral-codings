@@ -1,1 +1,1 @@
-# STM32F103C8-Peripheral-codings
+The code is intended for personal use
