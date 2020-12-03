@@ -1,0 +1,1 @@
+This project aims to blink LED .No delay functions are added.The blinking is tested with STLink v2 debugger/programmer in Keil.
